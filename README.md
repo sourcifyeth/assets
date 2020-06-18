@@ -1,7 +1,9 @@
 # Sourcify Assets
 
 In this repository you can find various graphic assets around the Sourcify project, such as the logo in different 
-variations and more. All assets are distributed under a CC-BY 4.0 license (see [license](https://github.com/sourcifyeth/assets/tree/master/LICENSE.md).
+variations and more. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All assets are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. For more, see [license](https://github.com/sourcifyeth/assets/tree/master/LICENSE.md).
 
 When using the Sourcify logo, please respect the Sourcify brand guidelines.
 
@@ -15,12 +17,10 @@ Please do not...
 
 ## Colors
 
-Sourcify currently primarily makes use of the following colors:
+The Sourcify project currently primarily makes use of the following colors:
 
 - Light coral #FF858D
 - Pale pink #FFD4D4
 - Periwinkle #C5D5EA
 - Cerulean blue #2B50AA
 - Grey #8DA1B9
-
-
