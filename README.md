@@ -9,7 +9,7 @@ When using the Sourcify logo, please respect the Sourcify brand guidelines.
 
 ## Brand Guidelines
 
-This is the official [Sourcify logo]().
+This is the official [Sourcify logo](/assets/logo-assets-png/sourcify_blue.png).
 
 Please do not...
 - Change the ratio of the logo (don't stretch or cut it)
