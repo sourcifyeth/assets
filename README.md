@@ -20,27 +20,27 @@ The Sourcify project has the primary color "Cerulean Blue" and the secondary col
 
 ### Primary (Cerulean Blue)
 
-- 100: ![#E8EFFF](https://via.placeholder.com/15/E8EFFF/000000?text=+) #E8EFFF
-- 200: ![#A9BDEE](https://via.placeholder.com/15/A9BDEE/000000?text=+) #A9BDEE
-- 300: ![#7693DA](https://via.placeholder.com/15/7693DA/000000?text=+) #7693DA
-- 400: ![#4C6FC4](https://via.placeholder.com/15/4C6FC4/000000?text=+) #4C6FC4
-- 500: ![#2B50AA](https://via.placeholder.com/15/2B50AA/000000?text=+) #2B50AA (base) 
-- 600: ![#1C3E8E](https://via.placeholder.com/15/1C3E8E/000000?text=+) #1C3E8E
-- 700: ![#142D6B](https://via.placeholder.com/15/142D6B/000000?text=+) #142D6B
-- 800: ![#0E204E](https://via.placeholder.com/15/0E204E/000000?text=+) #0E204E
-- 900: ![#08132F](https://via.placeholder.com/15/08132F/000000?text=+) #08132F 
+- 100: ![#E8EFFF](https://img.shields.io/badge/-.%20%20%20%20.-E8EFFF) #E8EFFF
+- 200: ![#A9BDEE](https://img.shields.io/badge/-.%20%20%20%20.-A9BDEE) #A9BDEE
+- 300: ![#7693DA](https://img.shields.io/badge/-.%20%20%20%20.-7693DA) #7693DA
+- 400: ![#4C6FC4](https://img.shields.io/badge/-.%20%20%20%20.-4C6FC4) #4C6FC4
+- 500: ![#2B50AA](https://img.shields.io/badge/-.%20%20%20%20.-2B50AA) #2B50AA (base) 
+- 600: ![#1C3E8E](https://img.shields.io/badge/-.%20%20%20%20.-1C3E8E) #1C3E8E
+- 700: ![#142D6B](https://img.shields.io/badge/-.%20%20%20%20.-142D6B) #142D6B
+- 800: ![#0E204E](https://img.shields.io/badge/-.%20%20%20%20.-0E204E) #0E204E
+- 900: ![#08132F](https://img.shields.io/badge/-.%20%20%20%20.-08132F) #08132F 
 
 ### Secondary (Light Coral)
 
-- 100: ![#FFCCD0](https://via.placeholder.com/15/FFCCD0/000000?text=+) #FFCCD0
-- 200: ![#FFBABF](https://via.placeholder.com/15/FFBABF/000000?text=+) #FFBABF 
-- 300: ![#FFA9AF](https://via.placeholder.com/15/FFA9AF/000000?text=+) #FFA9AF
-- 400: ![#FF9AA1](https://via.placeholder.com/15/FF9AA1/000000?text=+) #FF9AA1
-- 500: ![#FF858D](https://via.placeholder.com/15/FF858D/000000?text=+) #FF858D (base)
-- 600: ![#D65861](https://via.placeholder.com/15/D65861/000000?text=+) #D65861
-- 700: ![#AE373F](https://via.placeholder.com/15/AE373F/000000?text=+) #AE373F
-- 800: ![#851F26](https://via.placeholder.com/15/851F26/000000?text=+) #851F26 
-- 900: ![#5D0E13](https://via.placeholder.com/15/5D0E13/000000?text=+) #5D0E13 
+- 100: ![#FFCCD0](https://img.shields.io/badge/-.%20%20%20%20.-FFCCD0) #FFCCD0
+- 200: ![#FFBABF](https://img.shields.io/badge/-.%20%20%20%20.-FFBABF) #FFBABF 
+- 300: ![#FFA9AF](https://img.shields.io/badge/-.%20%20%20%20.-FFA9AF) #FFA9AF
+- 400: ![#FF9AA1](https://img.shields.io/badge/-.%20%20%20%20.-FF9AA1) #FF9AA1
+- 500: ![#FF858D](https://img.shields.io/badge/-.%20%20%20%20.-FF858D) #FF858D (base)
+- 600: ![#D65861](https://img.shields.io/badge/-.%20%20%20%20.-D65861) #D65861
+- 700: ![#AE373F](https://img.shields.io/badge/-.%20%20%20%20.-AE373F) #AE373F
+- 800: ![#851F26](https://img.shields.io/badge/-.%20%20%20%20.-851F26) #851F26 
+- 900: ![#5D0E13](https://img.shields.io/badge/-.%20%20%20%20.-5D0E13) #5D0E13 
 
 The JSON formatted definitions can be found at the [tailwind.config.js](https://github.com/ethereum/sourcify/blob/master/ui/tailwind.config.js)
   
